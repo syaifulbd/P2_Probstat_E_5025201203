@@ -10,17 +10,17 @@ Kelas : Probstat E
 
 # Soal 1
 ## 1.a
-![Gambar 1.a](Dokumentasi/1a.jpg)
+![Gambar 1.a](Dokumentasi/1a.png)
 
 ## 1.b
-![Gambar 1.b](Dokumentasi/1b.jpg)
+![Gambar 1.b](Dokumentasi/1b.png)
 
 ## 1.c
 Setelah melakukan perhitungan, didapatkan bahwa p-value < 0.05 (α) dan mean tidak sama dengan 0. Sehingga H0 yang berbunyi “tidak ada pengaruh yang signifikan secara statistika dalam hal kadar saturasi oksigen , sebelum dan sesudah melakukan aktivitas 𝐴” dapat ditolak. Dan kesimpulannya adalah negasi dari H0 yaitu “ada pengaruh yang signifikan secara statistika dalam hal kadar saturasi oksigen , sebelum dan sesudah melakukan aktivitas 𝐴”.
 
 # Soal 2
 ## 2.a
-![Gambar 2.a](Dokumentasi/2a.jpg)
+![Gambar 2.a](Dokumentasi/2a.png)
 
 Saya setuju dengan klaim tersebut. H0 Rata-rata >= 20000 Lalu, sedangkan sampel diperoleh rata2 23500 (ini >=20000). Standar deviasi diperoleh 3900. Karena 23500 masih lebih kecil dari 24141.49, maka saya menyetujui klaim tersebut.
 
@@ -34,7 +34,7 @@ Diperoleh p-value = 1, maka H1 tidak mungkin terjadi (H1 ditolak). Maka, dapat d
 
 # Soal 3
 ## 3.a
-![Gambar 3.a](Dokumentasi/3a.jpg)
+![Gambar 3.a](Dokumentasi/3a.png)
 
 H0 dan H1 H0: μ1=μ2 nilai rata-rata bandung dan bali sama (tidak ada perbedaan). 
 H1: μ1 !=μ2 nilai rata-rata bandung dan bali tidak sama
@@ -57,35 +57,35 @@ Kesimpulan : "nilai rata-rata bandung dan bali tidak sama."
 
 # Soal 4
 ## 4.a
-![Gambar 4.a](Dokumentasi/4a.jpg)
+![Gambar 4.a](Dokumentasi/4a.png)
 
 ## 4.b
-![Gambar 4.b](Dokumentasi/4b.jpg)
+![Gambar 4.b](Dokumentasi/4b.png)
 
 ## 4.c
-![Gambar 4.c](Dokumentasi/4c.jpg)
+![Gambar 4.c](Dokumentasi/4c.png)
 
 ## 4.d
 Didapatkan nilai dari p-value yaitu = 0.8054.
 
 ## 4.e
-![Gambar 4.e](Dokumentasi/4e.jpg)
+![Gambar 4.e](Dokumentasi/4e.png)
 
 ## 4.f
-![Gambar 4.f](Dokumentasi/4f.jpg)
+![Gambar 4.f](Dokumentasi/4f.png)
 
 # Soal 5
 ## 5.a
-![Gambar 5.a](Dokumentasi/5a.jpg)
+![Gambar 5.a](Dokumentasi/5a.png)
 
 ## 5.b
-![Gambar 5.b](Dokumentasi/5b.jpg)
+![Gambar 5.b](Dokumentasi/5b.png)
 
 ## 5.c
-![Gambar 5.c](Dokumentasi/5c.jpg)
+![Gambar 5.c](Dokumentasi/5c.png)
 
 ## 5.d
-![Gambar 5.d](Dokumentasi/5d.jpg)
+![Gambar 5.d](Dokumentasi/5d.png)
 
 ## 5.e
-![Gambar 5.e](Dokumentasi/5e.jpg)
+![Gambar 5.e](Dokumentasi/5e.png)
