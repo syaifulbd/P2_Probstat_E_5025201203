@@ -3,7 +3,9 @@ Praktikum 2 Probstat
 
 # Identitas
 Nama  : Syaiful Bahri Dirgantara
+
 NRP   : 5025201203
+
 Kelas : Probstat E
 
 # Soal 1
@@ -19,6 +21,7 @@ Setelah melakukan perhitungan, didapatkan bahwa p-value < 0.05 (α) dan mean tid
 # Soal 2
 ## 2.a
 ![Gambar 2.a](Dokumentasi/2a.jpg)
+
 Saya setuju dengan klaim tersebut. H0 Rata-rata >= 20000 Lalu, sedangkan sampel diperoleh rata2 23500 (ini >=20000). Standar deviasi diperoleh 3900. Karena 23500 masih lebih kecil dari 24141.49, maka saya menyetujui klaim tersebut.
 
 ## 2.b
@@ -32,6 +35,7 @@ Diperoleh p-value = 1, maka H1 tidak mungkin terjadi (H1 ditolak). Maka, dapat d
 # Soal 3
 ## 3.a
 ![Gambar 3.a](Dokumentasi/3a.jpg)
+
 H0 dan H1 H0: μ1=μ2 nilai rata-rata bandung dan bali sama (tidak ada perbedaan). 
 H1: μ1 !=μ2 nilai rata-rata bandung dan bali tidak sama
 
